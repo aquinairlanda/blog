@@ -2,7 +2,7 @@ ghost:
   username: ghost
   name: Ghost
   url_full: https://aquinairlanda.github.io/
-  url: https://aquinairlanda.github.io/
+  url: aquinairlanda.github.io
   bio: The professional publishing platform
   picture: assets/images/ghost.png
   facebook: ghost
