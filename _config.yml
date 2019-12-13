@@ -72,8 +72,8 @@ lsi: False
 username: fabiolafaria
 repo: aquinairlanda.github.io
 branch: master
-relative_source: ../
-destination: aquinairlanda.github.io
+relative_source: ../aquinairlanda.github.io/
+destination: ../aquinairlanda.github.io/
 production_url:  https://aquinairlanda.github.io/
 source_url:  https://aquinairlanda.github.io/
 
