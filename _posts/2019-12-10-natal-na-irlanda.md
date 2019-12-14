@@ -9,7 +9,7 @@ tags:
   - Irlanda
 class: post-template
 subclass: post
-author: abraham
+author: aquinairlanda
 ---
 
 Ahhh ent&atilde;o &eacute; Natal\! &Eacute;poca boa, de muita confraterniza&ccedil;&atilde;o, amor, fam&iacute;lia, amigos, os melhores jantares (e almo&ccedil;os\!). Na Irlanda o&nbsp;Natal tamb&eacute;m &eacute; &eacute;poca de reflex&atilde;o, muitas comemora&ccedil;&otilde;es e lindas decora&ccedil;&otilde;es natalinas. Al&eacute;m de, &eacute; claro, muitos presentes. Sim, eles adoram o Natal e eu tamb&eacute;m\!
