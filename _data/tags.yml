@@ -7,7 +7,7 @@ fiction:
   description: False
   cover: False
 fables:
-  name: fables
+  name: irlanda
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
 getting-started:
