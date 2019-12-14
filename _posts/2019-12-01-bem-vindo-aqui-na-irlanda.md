@@ -9,7 +9,7 @@ tags:
   - Irlanda
 class: post-template
 subclass: post tag-getting-started
-author: Aqui na Irlanda
+author: aquinairlanda
 ---
 
 Hey\! Bem Vindo Aqui na Irlanda\! :)
