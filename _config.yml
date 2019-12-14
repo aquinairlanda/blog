@@ -26,7 +26,7 @@ subscribers: True # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter:  # replace by your username
 facebook: aquinairlanda # replace by your username
-instagram: aquinairlanda
+instagram: aquinairlanda.com.br
 
 # Disqus
 disqus: False
