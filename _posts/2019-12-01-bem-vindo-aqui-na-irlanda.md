@@ -12,9 +12,9 @@ subclass: post tag-getting-started
 author: aquinairlanda
 ---
 
-Hey\! Bem Vindo Aqui na Irlanda\! :)
+Hey\! Bem Vindo Aqui na Irlanda\! :) Aqui na Irlanda &eacute; um Blog criado especialmente para voc&ecirc; que procura saber mais sobre trabalho na Irlanda, vistos de trabalho para morar na Irlanda e tamb&eacute;m como &eacute; viver na Ilha Esmeralda\!
 
-Aqui na Irlanda &eacute; um Blog criado especialmente para voc&ecirc; que procura saber mais sobre trabalho na Irlanda, vistos de trabalho para morar na Irlanda e tamb&eacute;m como &eacute; viver na Ilha Esmeralda\! Ent&atilde;o se voc&ecirc; est&aacute; buscando dar um upgrade na sua Carreira, e tentar novas oportunidades no mercado de trabalho na Irlanda, ent&atilde;o voc&ecirc; est&aacute; no lugar certo\!
+Ent&atilde;o se voc&ecirc; est&aacute; buscando dar um upgrade na sua Carreira, e tentar novas oportunidades no mercado de trabalho na Irlanda, ent&atilde;o voc&ecirc; est&aacute; no lugar certo\!
 
 ### Como o Aqui na Irlanda pode te ajudar?
 
