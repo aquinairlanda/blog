@@ -15,7 +15,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://aquinairlanda.github.io/blog/
+production_url: https://aquinairlanda.com.br
 source_url: https://github.com/aquinairlanda/blog/
 CNAME: #add cname for website to be created
 
@@ -74,7 +74,7 @@ repo: blog
 branch: master
 relative_source: ../blog/
 destination: ../blog-pages/
-production_url: https://aquinairlanda.github.io/blog/
+production_url: https://aquinairlanda.com.br
 source_url: https://github.com/aquinairlanda/blog/
 
 exclude:
