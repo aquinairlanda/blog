@@ -13,7 +13,8 @@ CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"]
 REPO = CONFIG["repo"]
 SOURCE_BRANCH = CONFIG["branch"]
-DESTINATION_BRANCH = "dev"
+DESTINATION_BRANCH = "gh-pages"
+CNAME = CONFIG["CNAME"]
 
 def check_destination
   unless Dir.exist? CONFIG["destination"]
@@ -64,10 +65,11 @@ namespace :site do
     sh "bundle exec jekyll build"
 
     # Commit and push to github
-    sha = `git log`.match(/[a-z0-9]{40}/)[0]
+   sha = `git log`.match(/[a-z0-9]{40}/)[0]
     Dir.chdir(CONFIG["destination"]) do
       # check if there is anything to add and commit, and pushes it
       sh "if [ -n '$(git status)' ]; then
+            echo '#{CNAME}' > ./CNAME;
             git add --all .;
             git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.';
             git push --quiet origin #{DESTINATION_BRANCH};
