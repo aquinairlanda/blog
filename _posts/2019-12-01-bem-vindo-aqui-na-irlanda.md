@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/welcome.jpg
+cover: assets/images/capa-home.jpg
 navigation: true
 title: Bem Vindo Aqui na Irlanda
 date: 2019-12-01 10:00:00
