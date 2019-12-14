@@ -69,13 +69,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: fabiolafaria
-repo: aquinairlanda.github.io
-branch: dev
-relative_source: ../
-destination: ../aquinairlanda.github.io/
-production_url: https://aquinairlanda.github.io/
-source_url: https://github.com/aquinairlanda/aquinairlanda.github.io/
+username: aquinairlanda
+repo: blog
+branch: master
+relative_source: ../blog/
+destination: ../blog-pages/
+production_url: https://aquinairlanda.github.io/blog/
+source_url: https://github.com/aquinairlanda/blog/
 
 exclude:
   - assets/css
