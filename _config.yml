@@ -74,7 +74,7 @@ repo: aquinairlanda.github.io
 branch: master
 relative_source: 
 destination: ../aquinairlanda.github.io/
-production_url:  https://aquinairlanda.github.io/
+#production_url:  https://aquinairlanda.github.io/
 #source_url:
 
 exclude:
