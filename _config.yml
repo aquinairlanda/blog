@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: 
+baseurl: /
 
 # Website info
 title: Aqui na Irlanda
@@ -36,8 +36,8 @@ google_analytics:  # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
-#permalink: /author/:author
-#permalink: /tag/:tag
+permalink: /author/:author
+permalink: /tag/:tag
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
@@ -71,7 +71,7 @@ safe: False
 lsi: False
 username: fabiolafaria
 repo: aquinairlanda.github.io
-branch: master
+branch: dev
 relative_source: 
 destination: ../aquinairlanda.github.io/
 production_url: https://aquinairlanda.github.io/
