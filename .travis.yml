@@ -20,4 +20,4 @@ env:
     secure: $GITHUB_TOKEN
 branches:
   only:
-    - master
+    - dev
