@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/piano.jpg
+cover: assets/images/irlanda.jpg
 navigation: true
 title: Como é morar na Irlanda
 date: 2020-01-04 10:18:00
@@ -26,7 +26,9 @@ Isso n&atilde;o acontece com todas as pessoas, infelizmente os vistos de trabalh
 
 Parece algo simples ao dizer que vindo para Irlanda &eacute; mais f&aacute;cil conseguir uma vaga na sua &aacute;rea, mas a verdade &eacute; que sem a cidadania europ&eacute;ia tudo &eacute; muito mais dif&iacute;cil e trabalhoso, os processos de contrata&ccedil;&atilde;o s&atilde;o mais longos podendo extender-se por meses.
 
-No final todo mundo precisa vir e pagar contas, e se preparar para imprevistos. Ent&atilde;o morar na Irlanda pode ser complicado ao in&iacute;cio para quem quer se estabelecer no pa&iacute;s e em sua &aacute;rea de atua&ccedil;&atilde;o. Mas aqui conto um pouco como foi nossa experi&ecirc;ncia chegando na Ilha Esmeralda:
+No final todo mundo precisa vir e pagar contas, e se preparar para imprevistos. Ent&atilde;o morar na Irlanda pode ser complicado ao in&iacute;cio para quem quer se estabelecer no pa&iacute;s e em sua &aacute;rea de atua&ccedil;&atilde;o. Mas aqui conto um pouco como foi nossa experi&ecirc;ncia chegando na Ilha Esmeralda.
+
+&nbsp;
 
 ## Morar na Irlanda como Estudante
 
