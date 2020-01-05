@@ -50,6 +50,10 @@ Ah\! Mas voc&ecirc; n&atilde;o precisou nem limpar banheiro e achou dif&iacute;c
 
 Voc&ecirc; s&oacute; percebe que gosta da calmaria quando entra no furac&atilde;o. E quando voc&ecirc; muda completamente sua vida, sua rotina, seu planos. Voc&ecirc; est&aacute; caminhando para um furac&atilde;o de emo&ccedil;&otilde;es.
 
+Morar como Estudante na Irlanda n&atilde;o &eacute; nada f&aacute;cil quando se tem mais de 30 anos, e especialmente se voc&ecirc; vier sozinho. Viver como estudante aqui na Irlanda tamb&eacute;m n&atilde;o &eacute; f&aacute;cil pelos diferentes obst&aacute;culos que voc&ecirc; precisa passar ao conseguir moradia, dividir casa com outras pessoas, tirar documentos, processos de visto na imigra&ccedil;&atilde;o. Tudo isso fica muito mais f&aacute;cil quando se tem o apoio de outras pessoas. E por isso em outros posts vou recomendar servi&ccedil;os e pessoas que realmente podem te ajudar durante todo esse processo.
+
+Ok\! Mas e como foi depois com o novo visto e na nova cidade Limerick? Bom isso vou deixar para um outro post tamb&eacute;m :)
+
 &nbsp;
 
 &nbsp;
