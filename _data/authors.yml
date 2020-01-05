@@ -8,16 +8,17 @@ aquinairlanda:
   facebook: aquinairlanda
   twitter: 
   cover: False
-hannah:
-  username: hannah
-  name: Hannah Wolfe
-  location: London, UK
-  url_full: http://hannah.wf/
-  url: hannah.wf
+fabiolafaria:
+  username: fabiola
+  name: Fabiola Faria
+  location: Limerick, IE
+  url_full: 
+  url: 
   bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
+  picture: assets/images/fabiola.jpg
+  instagram: fabiolafaria_
   facebook: False
-  twitter: erisds
+  twitter: fabiola_faria
   cover: assets/images/hannah-cover.jpg
 john:
   username: john
