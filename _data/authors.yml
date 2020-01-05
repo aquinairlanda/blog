@@ -19,7 +19,7 @@ fabiola:
   facebook: False
   instagram: fabiolafaria_
   twitter: fabiola_faria
-  cover: assets/images/fables.jpg
+  cover: False
 john:
   username: john
   name: John O'Nolan
