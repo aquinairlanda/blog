@@ -25,8 +25,8 @@ subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter:  # replace by your username
-facebook: aquinairlanda # replace by your username
-instagram: aquinairlanda.com.br
+facebook:  # replace by your username
+instagram: 
 
 # Disqus
 disqus: False
