@@ -11,6 +11,8 @@ tags:
 class: post-template
 subclass: post tag-fiction
 author: aquinairlanda
+redirect_from:
+  - /como-%C3%A9-morar-na-irlanda
 ---
 
 Como é morar na Irlanda? Essa é uma das primeiras coisas que me perguntam quando falamos que moramos Aqui na Irlanda. Mas como é essa experi&ecirc;ncia de morar num lugar t&atilde;o diferente daquele que voc&ecirc; veio? &Eacute; melhor?&nbsp; &Eacute; pior? Vem comigo que eu te conto um pouco mais.
