@@ -4,6 +4,7 @@ current: post
 cover: assets/images/morar-irlanda.jpg
 navigation: true
 title: Como é morar na Irlanda
+permalink: como-e-morar-na-irlanda
 date: 2020-01-04 10:18:00
 tags:
   - Irlanda
