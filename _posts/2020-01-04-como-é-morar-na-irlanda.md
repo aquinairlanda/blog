@@ -61,16 +61,3 @@ Ok\! Mas e como foi depois com o novo visto e na nova cidade Limerick? Bom isso 
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
